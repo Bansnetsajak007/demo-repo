@@ -1,1 +1,10 @@
-Hello this i jack and iam very happy. every one should be happy
+STEPS TO USE GIT 
+
+FIRST :
+        INITIALIZE THE SPECIFIC REPO
+
+SECOND: 
+        CREATE FILE, DO CODING AND EVERYTHING YOU WANT TO
+
+THIRD: 
+        AT BEGINNING THOSE FILES WILL BE AT UNTRACKED CONDITION
